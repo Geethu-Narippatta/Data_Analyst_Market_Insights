@@ -1,4 +1,5 @@
-This project focuses on data analyst roles, exploring:  
+This project focuses on data analyst roles, exploring: 
+
 💰 Top-paying jobs 
 🔥 In-demand skills 
 📈 Regions where high demand meets high salary in data analytics 
